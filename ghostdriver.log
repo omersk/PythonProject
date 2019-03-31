@@ -1,0 +1,155 @@
+[INFO  - 2018-06-21T10:19:54.153Z] GhostDriver - Main - running on port 63018
+[INFO  - 2018-06-21T10:19:57.725Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-06-21T10:19:57.725Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.customHeaders:  - {}
+[INFO  - 2018-06-21T10:19:57.725Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-06-21T10:19:57.726Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a5ed25b0-753c-11e8-92bb-b33d7fadac4b
+[ERROR - 2018-06-21T10:20:02.257Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - msg: ReferenceError: Can't find variable: Set
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:02.258Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - stack:
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.2.0/umd/react-dom.production.min.js:124)
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.2.0/umd/react-dom.production.min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:02.678Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - msg: ReferenceError: Can't find variable: ReactDOM
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:02.678Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - stack:
+  global code (https://www.findads.com.au/pets-animals/b.html?usp=true:16)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:05.665Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - msg: ReferenceError: Can't find variable: Set
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:05.665Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - stack:
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.2.0/umd/react-dom.production.min.js:124)
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.2.0/umd/react-dom.production.min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:06.020Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - msg: ReferenceError: Can't find variable: ReactDOM
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:06.020Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - stack:
+  global code (https://www.findads.com.au/pets-animals/resume.html?usp=true:16)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:11.217Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - msg: ReferenceError: Can't find variable: Set
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:11.218Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - stack:
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.2.0/umd/react-dom.production.min.js:124)
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.2.0/umd/react-dom.production.min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:11.359Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - msg: ReferenceError: Can't find variable: ReactDOM
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:11.360Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - stack:
+  global code (https://www.findads.com.au/pets-animals/b.html?usp=true:16)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:12.886Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - msg: ReferenceError: Can't find variable: Set
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:12.887Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - stack:
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.2.0/umd/react-dom.production.min.js:124)
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.2.0/umd/react-dom.production.min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:13.151Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - msg: ReferenceError: Can't find variable: ReactDOM
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:13.151Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - stack:
+  global code (https://www.findads.com.au/pets-animals/resume.html?usp=true:16)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:17.265Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - msg: ReferenceError: Can't find variable: Set
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:17.265Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - stack:
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.2.0/umd/react-dom.production.min.js:124)
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.2.0/umd/react-dom.production.min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:17.660Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - msg: ReferenceError: Can't find variable: ReactDOM
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:17.660Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - stack:
+  global code (https://www.findads.com.au/pets-animals/b.html?usp=true:16)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:20.647Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - msg: ReferenceError: Can't find variable: Set
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:20.647Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - stack:
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.2.0/umd/react-dom.production.min.js:124)
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.2.0/umd/react-dom.production.min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:20.909Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - msg: ReferenceError: Can't find variable: ReactDOM
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:20.909Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - stack:
+  global code (https://www.findads.com.au/pets-animals/resume.html?usp=true:16)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:25.629Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - msg: ReferenceError: Can't find variable: Set
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:25.629Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - stack:
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.2.0/umd/react-dom.production.min.js:124)
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.2.0/umd/react-dom.production.min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:25.741Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - msg: ReferenceError: Can't find variable: ReactDOM
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:25.742Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - stack:
+  global code (https://www.findads.com.au/pets-animals/b.html?usp=true:16)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:27.465Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - msg: ReferenceError: Can't find variable: Set
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:27.466Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - stack:
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.2.0/umd/react-dom.production.min.js:124)
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.2.0/umd/react-dom.production.min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:27.726Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - msg: ReferenceError: Can't find variable: ReactDOM
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:27.726Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - stack:
+  global code (https://www.findads.com.au/pets-animals/resume.html?usp=true:16)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:32.338Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - msg: ReferenceError: Can't find variable: Set
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:32.338Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - stack:
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.2.0/umd/react-dom.production.min.js:124)
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.2.0/umd/react-dom.production.min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:32.470Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - msg: ReferenceError: Can't find variable: ReactDOM
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:32.471Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - stack:
+  global code (https://www.findads.com.au/pets-animals/b.html?usp=true:16)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:34.517Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - msg: ReferenceError: Can't find variable: Set
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:34.518Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - stack:
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.2.0/umd/react-dom.production.min.js:124)
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.2.0/umd/react-dom.production.min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:34.771Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - msg: ReferenceError: Can't find variable: ReactDOM
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-21T10:20:34.771Z] Session [a5ed25b0-753c-11e8-92bb-b33d7fadac4b] - page.onError - stack:
+  global code (https://www.findads.com.au/pets-animals/resume.html?usp=true:16)
+
+  phantomjs://platform/console++.js:263 in error
